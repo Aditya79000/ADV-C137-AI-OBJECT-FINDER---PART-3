@@ -1,0 +1,16 @@
+.heading{
+color: blanchedalmond;
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+body{
+    background: linear-gradient(#09ef5a32 10%, #8a42f5df 80%,#003487 80%);
+}
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
